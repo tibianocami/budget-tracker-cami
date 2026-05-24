@@ -1,6 +1,6 @@
 # 💰 Gestore Finanze Personali (Budget Tracker)
 
-Un'applicazione Python da riga di comando (CLI) pulita, interattiva e moderna, progettata per tracciare le entrate, monitorare le uscite divise per categoria e generare resoconti statistici dettagliati sia in formato tabellare che grafico.
+Un'applicazione Python da riga di comando (CLI) pulita, progettata per tracciare le entrate, monitorare le uscite divise per categoria e generare resoconti statistici dettagliati sia in formato tabellare che grafico.
 
 ## 🚀 Caratteristiche Principali
 
