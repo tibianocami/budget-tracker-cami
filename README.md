@@ -34,7 +34,7 @@ budget_tracker_progetto_aggiornato/
 │       └── charts.py              # Generazione e salvataggio dei grafici (Matplotlib)
 │
 └── requirements.txt               # Dipendenze del progetto
-
+```
 
 
 
