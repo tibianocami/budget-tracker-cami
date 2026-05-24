@@ -34,3 +34,12 @@ budget_tracker_progetto_aggiornato/
 │       └── charts.py              # Generazione e salvataggio dei grafici (Matplotlib)
 │
 └── requirements.txt               # Dipendenze del progetto
+
+
+
+
+
+[Personal Finance-2026-05-24-111004.pdf](https://github.com/user-attachments/files/28191168/Personal.Finance-2026-05-24-111004.pdf)
+
+
+[JSON Input Management Flow-2026-05-24-111603.pdf](https://github.com/user-attachments/files/28191186/JSON.Input.Management.Flow-2026-05-24-111603.pdf)
