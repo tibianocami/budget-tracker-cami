@@ -1,0 +1,4 @@
+rich==13.7.1
+questionary==2.0.1
+matplotlib>=3.9.0
+python-dateutil==2.9.0
