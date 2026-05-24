@@ -37,9 +37,10 @@ budget_tracker_progetto_aggiornato/
 ```
 
 
+## 📅 Development Roadmap (Gantt)
 
+[JSON Input Management Flow-2026-05-24-113049.pdf](https://github.com/user-attachments/files/28191430/JSON.Input.Management.Flow-2026-05-24-113049.pdf)
 
-[Personal Finance-2026-05-24-111004.pdf](https://github.com/user-attachments/files/28191168/Personal.Finance-2026-05-24-111004.pdf)
-
+## 🔄 Application Logic & Flow (Flowchart)
 
 [JSON Input Management Flow-2026-05-24-111603.pdf](https://github.com/user-attachments/files/28191186/JSON.Input.Management.Flow-2026-05-24-111603.pdf)
