@@ -10,6 +10,25 @@ Un'applicazione Python da riga di comando (CLI) pulita, progettata per tracciare
 - **Grafici Statistici incorporati:** Generazione automatica di grafici a torta raggruppati (le micro-spese inferiori al 5% vengono accorpate sotto la voce "Altro" per una migliore pulizia visiva).
 - **Persistenza dei Dati:** Salvataggio strutturato automatico in un database in formato JSON.
 
+
+## 🛠️ Requisiti e Pacchetti Utilizzati
+Il progetto fa uso di alcuni pacchetti esterni per ottimizzare l'esperienza utente e l'analisi dei dati. Ecco quali sono e perché sono stati scelti:
+
+questionary:
+
+Perché: Sostituisce i vecchi controlli ad input() numerici testuali, azzerando i crash dovuti a inserimenti di caratteri errati e rendendo la CLI moderna e navigabile con le frecce della tastiera.
+
+rich:
+
+Perché: Utilizzata per impaginare i dati finanziari in tabelle colorate ed eleganti nel terminale, applicando stili condizionali (verde per le entrate, rosso per le uscite).
+
+matplotlib:
+
+Perché: Genera grafici a torta relativi alle spese. È configurato con il backend non interattivo Agg per salvare i file PNG in locale in modo asincrono, senza interrompere il flusso della riga di comando e senza richiedere finestre GUI pop-up.
+
+python-dateutil:
+
+Perché: Gestisce in automatico le operazioni sulle date (come l'incremento o decremento continuo dei mesi), risolvendo i passaggi critici come il cambio dell'anno tra dicembre e gennaio.
 ---
 
 ## 📂 Struttura del Progetto
